@@ -1,2 +1,2 @@
-# mdl-hn
-Minimum Description Length Hopfield Networks
+# Minimum Description Length Modern Hopfield Networks
+Code for Minimum Description Length Hopfield Networks paper.

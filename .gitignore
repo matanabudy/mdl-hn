@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.log
+profile.svg
+.DS_Store
+*.npy
+*.png
+*.pkl
+*.csv
+*.zip
+experiments_data/
+results/

@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.11-blue" alt="Python 3.11">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
-    <img src="https://img.shields.io/badge/arXiv-2311.06518-b31b1b.svg" href="https://arxiv.org/abs/2311.06518" alt="arXiv">
+    <a href="https://arxiv.org/abs/2311.06518"><img src="https://img.shields.io/badge/arXiv-2311.06518-b31b1b.svg" alt="arXiv"></a>
 </p>
 
 ##

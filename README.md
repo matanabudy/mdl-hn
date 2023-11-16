@@ -19,7 +19,7 @@
 
 ##
 
-Code for [Minimum Description Length Hopfield Networks](https://neurips.cc/virtual/2023/78187) paper.
+Code for [Minimum Description Length Hopfield Networks](https://arxiv.org/abs/2311.06518) paper.
 
 ## Getting Started
 
@@ -92,5 +92,5 @@ continuous noise.
       eprint={2311.06518},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}```
+}
 
